@@ -1,5 +1,4 @@
-#### PengCode
-#### PengCode专业的EXE转ShellCode程序
+#### PengCode:专业的EXE转ShellCode程序
 #### -32 32位ShellCode生成（需要转换程序本身为32位）
 #### -64 64位ShellCode生成（需要转换程序本身为64位）
 #### -e 需要转换的exe路径                           
