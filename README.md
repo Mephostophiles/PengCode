@@ -5,4 +5,4 @@
 #### -o 输出Shellcode的路径    
 #### 例子: PengCode.exe -64 -e code.exe -o code.bin 
 #### 需要管理员运行PengCode!                        
-
+#### 免责声明:工具仅用于红蓝攻防，从事犯罪行为与作者无关，凡使用者视为自动同意。
